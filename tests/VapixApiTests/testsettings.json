@@ -1,0 +1,8 @@
+{
+  "Camera": {
+    "BaseUrl": "",
+    "Username": "",
+    "Password": "",
+    "MaxSnapshotMs": 1000
+  }
+}
